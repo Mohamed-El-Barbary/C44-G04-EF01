@@ -1,0 +1,15 @@
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\bin\Debug\net8.0\Demo.exe
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\bin\Debug\net8.0\Demo.deps.json
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\bin\Debug\net8.0\Demo.dll
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\bin\Debug\net8.0\Demo.pdb
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\obj\Debug\net8.0\Demo.sourcelink.json
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\obj\Debug\net8.0\Demo.dll
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\obj\Debug\net8.0\refint\Demo.dll
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\obj\Debug\net8.0\Demo.pdb
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+D:\Route Bootcamp Back_End\FE CORE Route\Session01\Demo\obj\Debug\net8.0\ref\Demo.dll

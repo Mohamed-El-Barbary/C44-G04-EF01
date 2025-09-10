@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|d:\\route bootcamp back_end\\fe core route\\session01\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|d:\\route bootcamp back_end\\fe core route\\session01\\assignment\\context\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|solutionrelative:assignment\\context\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|d:\\route bootcamp back_end\\fe core route\\session01\\assignment\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|d:\\route bootcamp back_end\\fe core route\\session01\\assignment\\models\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|d:\\route bootcamp back_end\\fe core route\\session01\\assignment\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|d:\\route bootcamp back_end\\fe core route\\session01\\assignment\\models\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|d:\\route bootcamp back_end\\fe core route\\session01\\assignment\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|d:\\route bootcamp back_end\\fe core route\\session01\\assignment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|d:\\route bootcamp back_end\\fe core route\\session01\\assignment\\migrations\\20250908152911_addinstructortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5153FD7-4103-4A7F-8E1E-2373A2106FCE}|Assignment\\Assignment.csproj|solutionrelative:assignment\\migrations\\20250908152911_addinstructortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250908152911_AddInstructorTable.cs",
+              "DocumentMoniker": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Migrations\\20250908152911_AddInstructorTable.cs",
+              "RelativeDocumentMoniker": "Assignment\\Migrations\\20250908152911_AddInstructorTable.cs",
+              "ToolTip": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Migrations\\20250908152911_AddInstructorTable.cs",
+              "RelativeToolTip": "Assignment\\Migrations\\20250908152911_AddInstructorTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:29:12.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course_Inst.cs",
+              "DocumentMoniker": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Models\\Course_Inst.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Course_Inst.cs",
+              "ToolTip": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Models\\Course_Inst.cs",
+              "RelativeToolTip": "Assignment\\Models\\Course_Inst.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:26:26.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Instructor.cs",
+              "ToolTip": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Models\\Instructor.cs",
+              "RelativeToolTip": "Assignment\\Models\\Instructor.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA1wCcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:18:38.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Topic.cs",
+              "ToolTip": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Models\\Topic.cs",
+              "RelativeToolTip": "Assignment\\Models\\Topic.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:13:16.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stud_Course.cs",
+              "DocumentMoniker": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Models\\Stud_Course.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Stud_Course.cs",
+              "ToolTip": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Models\\Stud_Course.cs",
+              "RelativeToolTip": "Assignment\\Models\\Stud_Course.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:00:07.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Department.cs",
+              "ToolTip": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Models\\Department.cs",
+              "RelativeToolTip": "Assignment\\Models\\Department.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:52:38.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Course.cs",
+              "ToolTip": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Models\\Course.cs",
+              "RelativeToolTip": "Assignment\\Models\\Course.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:48:58.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITIDbContext.cs",
+              "DocumentMoniker": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Context\\ITIDbContext.cs",
+              "RelativeDocumentMoniker": "Assignment\\Context\\ITIDbContext.cs",
+              "ToolTip": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Context\\ITIDbContext.cs",
+              "RelativeToolTip": "Assignment\\Context\\ITIDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:53:08.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "D:\\Route Bootcamp Back_End\\FE CORE Route\\Session01\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:50:02.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
